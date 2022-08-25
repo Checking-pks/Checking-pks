@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Checking-pks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Checking-pks&hide=issues,prs,stars&count_private=true&show_icons=true)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrudtn23)](https://solved.ac/qkrrudtn23)
