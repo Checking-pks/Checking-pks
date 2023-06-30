@@ -10,10 +10,10 @@
 
 ### 안녕하세요, 협업을 통해 성장하고 새로운 일에 도전하는 개발자 박경수입니다.
 
----
+##
 
 <!-- Tech Stack -->
-<div align="center" style="margin-top: 50px;">
+<div align="center" style="margin-top: 100px;">
 
 ## 🛠️ Tech Stack
 
@@ -28,12 +28,12 @@
 
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" style="margin: 0px 5px">
 
----
+##
 
 <!-- Stats -->
 <div align="center" style="margin-top: 50px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Checking-pks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Checking-pks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/> -->
 <img src="https://streak-stats.demolab.com?user=Checking-pks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=[Y.]n.j" height="150" alt="streak graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Checking-pks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
