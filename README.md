@@ -10,7 +10,7 @@
 
 ### 안녕하세요, 협업을 통해 성장하고 새로운 일에 도전하는 개발자 박경수입니다.
 
-##
+<br>
 
 <!-- Tech Stack -->
 <div align="center" style="margin-top: 100px;">
@@ -28,7 +28,8 @@
 
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" style="margin: 0px 5px">
 
-##
+<br>
+<br>
 
 <!-- Stats -->
 <div align="center" style="margin-top: 50px;">
