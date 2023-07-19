@@ -45,6 +45,10 @@
 <!-- Snake -->
 <div align="center" style="margin-top: 50px;">
 
-![snake gif](https://github.com/Checking-pks/Checking-pks/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Checking-pks/Checking-pks/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Checking-pks/Checking-pks/blob/output/github-contribution-grid-snake.svg">
+  <img alt="IMAGE" src="https://github.com/Checking-pks/Checking-pks/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
